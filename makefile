@@ -6,6 +6,5 @@ all: pages
 pages:
 	@./build-pages.sh
 
-clean: 
-	@rm *.asc
+#clean: 
 	# TODO: add line to remove html results of .org files, but not raw html files.
