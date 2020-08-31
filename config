@@ -1,0 +1,4 @@
+author="Site author"
+site_title="Site title"
+url="https://site.net/" # eg "protocol://domain/"
+copyright="2020-$(date +%Y)"
